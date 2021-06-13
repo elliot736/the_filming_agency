@@ -65,7 +65,7 @@
         >
       </h1>
 
-      <a href="#section-tours" class="btn btn--white btn--animated"
+      <a href="#offers" class="btn btn--white btn--animated"
         >Discover our plans</a
       >
     </div>
