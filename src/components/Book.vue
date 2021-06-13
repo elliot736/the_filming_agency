@@ -1,5 +1,5 @@
 <template>
-  <section class="section-book">
+  <section id="book" class="section-book">
     <div class="row">
       <div class="book">
         <div class="book__form">

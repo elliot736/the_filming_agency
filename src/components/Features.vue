@@ -1,5 +1,5 @@
 <template>
-  <section class="section-features">
+  <section id="features" class="section-features">
     <div class="row">
       <div class="col-1-of-4">
         <div class="feature-box">

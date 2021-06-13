@@ -1,5 +1,5 @@
 <template>
-  <section class="section-tours" id="section-tours">
+  <section class="section-tours" id="offers">
     <div class="u-center-text u-margin-bottom-big">
       <h2 class="heading-secondary">Most popular plans</h2>
     </div>

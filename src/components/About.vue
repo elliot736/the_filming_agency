@@ -1,5 +1,5 @@
 <template>
-  <section class="section-about">
+  <section id="about" class="section-about">
     <div class="u-center-text u-margin-bottom-big">
       <h2 class="heading-secondary">Why Us ?</h2>
     </div>

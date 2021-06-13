@@ -1,5 +1,5 @@
 <template>
-  <section class="section-stories">
+  <section id="stories" class="section-stories">
     <div class="bg-video">
       <video class="bg-video__content" autoplay muted loop>
         <source src=".././img/video.mp4" type="video/mp4" />
