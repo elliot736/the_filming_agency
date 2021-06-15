@@ -85,7 +85,7 @@
             <div class="card__cta">
               <div class="card__price-box">
                 <p class="card__price-only">Recommended for</p>
-                <p class="card__price-value">RULY INNOVATIVE EXHIBITORS</p>
+                <p class="card__price-value">TRULY INNOVATIVE EXHIBITORS</p>
                 <a href="#popup" class="btn btn--white">Book now!</a>
               </div>
             </div>
