@@ -36,7 +36,31 @@ body {
   }
 }
 
-::selection {
+body::selection {
   background-color: $color-primary;
   color: $color-white;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: $color-primary;
+  border-radius: 6px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: $color-primary;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #1d2e37;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: $color-primary;
 }
