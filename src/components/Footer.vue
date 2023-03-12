@@ -80,7 +80,7 @@
       </div>
       <div class="col-1-of-2">
         <p class="footer__copyright">
-          Built using Vue.js by <a href="#" class="footer__link">Marro</a> with
+          Built using Vue.js by <a href="#" class="footer__link">Omar</a> with
           <a href="#" class="footer__link">love</a>. Copyright &copy; by Omar
         </p>
       </div>
